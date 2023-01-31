@@ -11,6 +11,7 @@ This project currently includes:
 * Logistic Regression to predict term-deposit subscriptions
 
 This is a ongoing project where some of techniques studied during the Fisrt Semester of the Master Degree in Data Science (Fall/Winter 2022) are applied.
+As this project evolves, more models might be used to compare the performance in which case this readme file will be updated.
 
 * K-Means: It is a Unsupervised Learning Algorithm that partitions the data clustering it into "k" distinct clusters grouped around centroids.
 
