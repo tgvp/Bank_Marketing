@@ -1,6 +1,6 @@
 # Bank_Marketing
 
-Bank Marketing Analysis
+# Bank Marketing Analysis
 
 The goal of this project is performing the data analysis getting insights from the data, classifying it making a customer segmentation to discover which kind of customers subscribe term deposits.
 
