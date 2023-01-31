@@ -12,6 +12,6 @@ This project currently includes:
 
 This is a ongoing project where some of techniques studied during the Fisrt Semester of the Master Degree in Data Science (Fall/Winter 2022) are applied.
 
-* K-Means: It is a Unsupervised Learning Algorithm that partitions the data clustering it into "k" distinct cluster grouped around centroids.
+* K-Means: It is a Unsupervised Learning Algorithm that partitions the data clustering it into "k" distinct clusters grouped around centroids.
 
 * Logistic Regression: Statistical model that predicts the probability of an event taking place or not.
