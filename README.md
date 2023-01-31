@@ -15,3 +15,13 @@ This is a ongoing project where some of techniques studied during the Fisrt Seme
 * K-Means: It is a Unsupervised Learning Algorithm that partitions the data clustering it into "k" distinct clusters grouped around centroids.
 
 * Logistic Regression: Statistical model that predicts the probability of an event taking place or not.
+
+## Libraries used:
+
+* Pandas
+* Numpy
+* scikit-learn
+* Matplotlib
+* Seaborn
+* Networkx
+* Built-in python libs
